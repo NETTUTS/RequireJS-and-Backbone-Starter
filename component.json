@@ -1,0 +1,10 @@
+{
+  "name": "RequireJS Starter",
+  "version": "1.0.0",
+  "dependencies": {
+    "requirejs": null,
+    "jquery": null,
+    "backbone-amd": null,
+    "underscore-amd": null
+  }
+}
